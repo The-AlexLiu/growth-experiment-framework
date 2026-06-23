@@ -1,0 +1,32 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="680" fill="#F6F7F9"/>
+  <rect x="64" y="56" width="1072" height="568" rx="18" fill="#FFFFFF" stroke="#D8DEE8"/>
+  <text x="100" y="120" fill="#172033" font-family="Arial, sans-serif" font-size="34" font-weight="700">Growth Experiment Framework</text>
+  <text x="100" y="160" fill="#5A6475" font-family="Arial, sans-serif" font-size="18">新品 / 新业务增长实验拆解框架</text>
+  <g>
+    <rect x="100" y="220" width="290" height="86" rx="10" fill="#EAF3FF" stroke="#B9D7FF"/>
+    <text x="126" y="254" fill="#173B67" font-family="Arial, sans-serif" font-size="18" font-weight="700">01 业务问题定义</text>
+    <text x="126" y="282" fill="#4A5A70" font-family="Arial, sans-serif" font-size="15">目标 / 不确定性 / 成功标准</text>
+    <rect x="455" y="220" width="290" height="86" rx="10" fill="#EEF8F2" stroke="#BCE6CB"/>
+    <text x="481" y="254" fill="#185A35" font-family="Arial, sans-serif" font-size="18" font-weight="700">02 用户与场景假设</text>
+    <text x="481" y="282" fill="#4A5A70" font-family="Arial, sans-serif" font-size="15">人群 / 痛点 / 触发场景</text>
+    <rect x="810" y="220" width="290" height="86" rx="10" fill="#FFF4E5" stroke="#FFD7A3"/>
+    <text x="836" y="254" fill="#7A4700" font-family="Arial, sans-serif" font-size="18" font-weight="700">03 增长路径拆解</text>
+    <text x="836" y="282" fill="#4A5A70" font-family="Arial, sans-serif" font-size="15">认知 / 兴趣 / 信任 / 转化</text>
+    <rect x="100" y="390" width="290" height="86" rx="10" fill="#F3EEFF" stroke="#D4C2FF"/>
+    <text x="126" y="424" fill="#4E2E8C" font-family="Arial, sans-serif" font-size="18" font-weight="700">04 实验设计</text>
+    <text x="126" y="452" fill="#4A5A70" font-family="Arial, sans-serif" font-size="15">内容 / 渠道 / 落地页测试</text>
+    <rect x="455" y="390" width="290" height="86" rx="10" fill="#E9F7F7" stroke="#B8E2E2"/>
+    <text x="481" y="424" fill="#185B5B" font-family="Arial, sans-serif" font-size="18" font-weight="700">05 指标与判断标准</text>
+    <text x="481" y="452" fill="#4A5A70" font-family="Arial, sans-serif" font-size="15">CTR / CVR / CPA / ROAS</text>
+    <rect x="810" y="390" width="290" height="86" rx="10" fill="#FCEEEE" stroke="#F5C2C2"/>
+    <text x="836" y="424" fill="#7A2525" font-family="Arial, sans-serif" font-size="18" font-weight="700">06 复盘与下一步</text>
+    <text x="836" y="452" fill="#4A5A70" font-family="Arial, sans-serif" font-size="15">放大 / 复测 / 优化 / 暂停</text>
+    <path d="M390 263H455" stroke="#8A94A6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M745 263H810" stroke="#8A94A6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M955 306V356C955 374 943 390 925 390H245C227 390 215 374 215 356V306" stroke="#8A94A6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M390 433H455" stroke="#8A94A6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M745 433H810" stroke="#8A94A6" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="100" y="566" fill="#5A6475" font-family="Arial, sans-serif" font-size="17">把增长动作从“凭经验试错”拆成“假设 - 实验 - 指标 - 复盘”的可执行流程</text>
+</svg>
