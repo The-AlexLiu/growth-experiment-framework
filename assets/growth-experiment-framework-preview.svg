@@ -26,7 +26,7 @@
     <line x1="588" y1="665" x2="492" y2="665" marker-end="url(#arrow)"/>
   </g>
 
-  <path d="M302 592V550C302 520 326 496 356 496H410" stroke="#8A5A12" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 10" marker-end="url(#feedback-arrow)"/>
+  <path d="M112 665H86V423H112" stroke="#8A5A12" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 10" marker-end="url(#feedback-arrow)"/>
 
   <g>
     <rect x="112" y="340" width="380" height="166" rx="16" fill="#EAF3FF" stroke="#B9D7FF" stroke-width="1.5"/>
